@@ -65,7 +65,7 @@
         <Parent guid="guidrf_ex_vsCmdSet" id="MyMenuGroup" />
         <Icon guid="guidImages" id="bmpPic1" />
         <Strings>
-          <ButtonText>Command</ButtonText>
+          <ButtonText>Obfuscated</ButtonText>
         </Strings>
       </Button>
 
